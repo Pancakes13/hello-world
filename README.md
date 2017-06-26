@@ -1,2 +1,4 @@
 # hello-world
-This is my first hello-world program
+This is my program using Github
+I like trains
+Github is cool
